@@ -1,0 +1,18 @@
+{
+  "name": "get-maoyu-matome",
+  "version": "0.0.0",
+  "description": "get text from MAOU_YUSYA matome site",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.21.0",
+    "cheerio": "~0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/Kazunori-Kimura/get-maoyu-matome",
+  "author": "kazunori kimura",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
